@@ -1,0 +1,54 @@
+{
+  "videos": [
+    {
+      "id": "`1",
+      "caption": "Neela Nilave ",
+      "thumbnail": "https://s.saregama.tech/image/c/fw_485/a/62/63/rdx_neela_nilave_ott_1440_1692948070.jpg",
+      "url": "https://www.youtube.com/embed/TkUTJlIZmQs"
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "name": "informative",
+      "allVideos": [
+        {
+          "id": "`1",
+          "caption": "Neela Nilave ",
+          "thumbnail": "https://s.saregama.tech/image/c/fw_485/a/62/63/rdx_neela_nilave_ott_1440_1692948070.jpg",
+          "url": "https://www.youtube.com/embed/TkUTJlIZmQs"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "filim",
+      "allVideos": [
+        {
+          "id": "`1",
+          "caption": "Neela Nilave ",
+          "thumbnail": "https://s.saregama.tech/image/c/fw_485/a/62/63/rdx_neela_nilave_ott_1440_1692948070.jpg",
+          "url": "https://www.youtube.com/embed/TkUTJlIZmQs"
+        }
+      ]
+    }
+  ],
+  "watchhistory": [
+    {
+      "id": 1,
+      "cardname": "rdx",
+      "url": "https://www.youtube.com/embed/TkUTJlIZmQs",
+      "Date": "08-12-2023"
+    },
+    {
+      "id": "e04f850a-8de2-4e3c-bd5d-a31d73da78c0",
+      "cardname": "Neela Nilave ",
+      "url": "https://www.youtube.com/embed/TkUTJlIZmQs",
+      "Date": "2023-12-12T07:22:25.080Z"
+    },
+    {
+      "id": "f801c324-6a46-41ac-8a88-ae72fe7eccf4",
+      "Date": "2023-12-13T07:45:35.187Z"
+    }
+  ]
+}
